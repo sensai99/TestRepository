@@ -1,2 +1,4 @@
 Hello,
-I was in the master branch but now I am in the childA branch
+I was in the master branch 
+I was shifted to childA branch
+Now I am in the childB branch
